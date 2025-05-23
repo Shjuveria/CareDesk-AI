@@ -13,9 +13,6 @@ An AI-powered Cerner helpdesk assistant built with:
 - Logs and reuses responses for repeated tickets
 - If unsure, alerts: “Connecting you to a human agent”
 
-### Demo
-Try it here 👉 
-
 ### How to Run Locally
 ```bash
 pip install -r requirements.txt
