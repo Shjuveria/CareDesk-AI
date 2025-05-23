@@ -14,7 +14,7 @@ An AI-powered Cerner helpdesk assistant built with:
 - If unsure, alerts: “Connecting you to a human agent”
 
 ### Demo
-Try it here 👉 [https://huggingface.co/spaces/yourusername/CareDesk-AI](https://huggingface.co/spaces/yourusername/CareDesk-AI)
+Try it here 👉 
 
 ### How to Run Locally
 ```bash
