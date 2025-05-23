@@ -1,0 +1,10 @@
+Title: Reactivating Frozen Patient Charts
+Category: Chart Access
+Keywords: frozen chart, system hang, timeout, unresponsive
+
+1. Instruct user to log out and log back in to clear cached session data.
+2. Clear local Java/ActiveX cache (depends on Cerner client version).
+3. Open the chart on a different workstation to isolate the issue.
+
+Notes:
+Performance issues may be tied to high-resolution imaging or excessive chart load.

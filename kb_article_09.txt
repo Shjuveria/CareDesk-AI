@@ -1,0 +1,10 @@
+Title: Resolving Order Set Auto-Population Failures
+Category: Orders
+Keywords: order set, auto-populate, pre-op, template issue
+
+1. Verify the correct encounter type (e.g., surgery, outpatient) is selected.
+2. Check if the template used has been modified or deprecated recently.
+3. Manually input missing fields and report the issue to clinical informatics for template review.
+
+Notes:
+If multiple users report the same issue, check for system update logs affecting order set logic.

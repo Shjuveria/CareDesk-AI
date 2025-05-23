@@ -1,0 +1,10 @@
+Title: Troubleshooting Cerner Printer Queue Failures
+Category: Printing
+Keywords: print job stuck, discharge papers, spooler, queue
+
+1. Restart the print spooler service on the affected workstation.
+2. Verify that the default printer is correctly mapped and selected in Cerner.
+3. Reprint the document and monitor for errors in the local event viewer.
+
+Notes:
+Always check for hardware issues like low toner or paper jams before escalating to Cerner support.

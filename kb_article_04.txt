@@ -1,0 +1,10 @@
+Title: Orders Not Posting to Lab Interface
+Category: Orders
+Keywords: lab orders, interface, pending status, not transmitted
+
+1. Verify the patient encounter is active and the order has a valid specimen source.
+2. Confirm the interface status in Cerner (Interface Monitor Tool).
+3. Resubmit the failed order or escalate to interface team if issue persists.
+
+Notes:
+Orders placed after midnight may face delays due to nightly batch processing.

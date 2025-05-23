@@ -1,0 +1,24 @@
+ticket_id,timestamp,ticket_text,matched_article,similarity_score,ai_response
+TKT-20250522173550,2025-05-22 17:35:50,Scanner isn’t detecting meds during barcode scan.,Title: Fixing Barcode Scanner Timeout During Medication Administration,0.45,"
+Helpdesk Ticket: Scanner isn’t detecting meds during barcode scan.
+
+Relevant Knowledge Article:
+Title: Fixing Barcode Scanner Timeout During Medication Administration
+Category: Hardware
+Keywords: barcode scanner, med admin, timeout, bedside devices
+
+1. Disconnect and reconnect the scanner via USB or docking cradle.
+2. Confirm the scanner is correctly configured for the medication format (e.g., NDC code).
+3. Restart the Cerner MAR application and reattempt the scan.
+
+Notes:
+Ensure wireless scanners are fully charged and within range of the workstation or access point.
+
+
+Based on this information, generate a short and helpful support response for the IT helpdesk agent to use.
+If you encounter an error on the data and report, please provide a copy of the application to the aiddesk agent directly.
+Checker error information at this time.
+3. Restart and reconnect the scanner to the application via USB or HDMI.
+4. Restart and reconnect the scanner via USB or USB.
+5. Set it back on both devices with a valid license.
+A note: Some of the support providers in support of this procedure may require the user to obtain a valid license. Many of the support providers may require such authorization in order to enable this process. Please note that some of the options are provided in the documentation of support devices and therefore will generally be applicable if the operator is able to provide authorization during"

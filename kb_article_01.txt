@@ -1,0 +1,10 @@
+Title: Resolving Cerner Login Errors After Password Reset
+Category: Login
+Keywords: login failed, password reset, authentication, Cerner access
+
+1. Confirm the user is entering their username in the correct format (e.g., DOMAIN\username).
+2. Instruct the user to clear browser cache if logging in via a web portal.
+3. If the issue persists, unlock the user account in Active Directory and reset the password again.
+
+Notes:
+Ensure account lockout policies are followed to avoid triggering auto-locks due to repeated failed attempts.

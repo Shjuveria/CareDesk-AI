@@ -1,0 +1,10 @@
+Title: Fixing Encounter Association Issues During Documentation
+Category: Documentation
+Keywords: encounter, note, documentation error, association failed
+
+1. Ensure the correct active encounter is selected before opening the documentation tab.
+2. Remove any partially saved notes linked to incorrect encounters.
+3. Re-initiate the note creation process from the right encounter context.
+
+Notes:
+Encounter association errors may lead to documentation appearing in the wrong patient record.

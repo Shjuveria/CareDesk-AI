@@ -1,0 +1,10 @@
+Title: Fixing “Access Denied” Errors in Archived Charts
+Category: Permissions
+Keywords: chart access, archived records, denied access, read rights
+
+1. Confirm the user’s security class includes access to archived documents.
+2. Request temporary elevated access via Cerner security team if needed.
+3. Try accessing the chart using the Archive Viewer tool.
+
+Notes:
+Archived data may be housed in a separate database partition; latency is expected.

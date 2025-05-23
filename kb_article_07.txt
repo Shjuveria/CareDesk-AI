@@ -1,0 +1,10 @@
+Title: Medication Order Dosage Not Calculating Correctly
+Category: Orders
+Keywords: chemotherapy, dosage error, BSA, calculation failed
+
+1. Confirm patient’s height and weight are updated in the demographics section.
+2. Recalculate the Body Surface Area (BSA) in the patient profile.
+3. Reenter the order to trigger dosage auto-calculation based on updated metrics.
+
+Notes:
+For pediatric or oncology patients, double-check order sets as custom protocols may override defaults.

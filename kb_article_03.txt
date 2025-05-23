@@ -1,0 +1,10 @@
+Title: Fixing Barcode Scanner Timeout During Medication Administration
+Category: Hardware
+Keywords: barcode scanner, med admin, timeout, bedside devices
+
+1. Disconnect and reconnect the scanner via USB or docking cradle.
+2. Confirm the scanner is correctly configured for the medication format (e.g., NDC code).
+3. Restart the Cerner MAR application and reattempt the scan.
+
+Notes:
+Ensure wireless scanners are fully charged and within range of the workstation or access point.

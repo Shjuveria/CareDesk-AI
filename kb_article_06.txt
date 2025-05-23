@@ -1,0 +1,10 @@
+Title: Addressing PACS Launch Failures from Cerner
+Category: Imaging Integration
+Keywords: PACS, imaging viewer, launch error, DICOM link
+
+1. Ensure the Cerner imaging plugin is installed and up to date.
+2. Check that the user has PACS access rights in both Cerner and the imaging system.
+3. Relaunch the PACS viewer after clearing the browser’s temporary files.
+
+Notes:
+Some PACS systems require specific Java versions—confirm compatibility before changes.
